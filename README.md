@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit1921184&show_icons=true&locale=en" alt="sumit1921184" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit1921184&" alt="Sumit1921184" /></p>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1921184&theme=tokyonight"></a>
+<a href="https://github.com/sumit1921184"><img alt="Sumit Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=sumit1921184&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
