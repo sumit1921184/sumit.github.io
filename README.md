@@ -1,4 +1,7 @@
-<p align="left"> <a href="https://www.linkedin.com/in/sumit-kumar-jha-050156217/" target="blank"></a> </p>
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/sumit-kumar-jha-050156217/">SUMIT KUMAR JHA 💻</a>!
+</h2>
+
 
 
 A passionate Full Stack Web Developer, a lifelong learner with a strong foundation in both front-end and back-end development. Possessing expertise in HTML, CSS, JavaScript, React, and MongoDB, excels at adapting to new technologies swiftly and paying meticulous attention to details.
