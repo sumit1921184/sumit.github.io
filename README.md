@@ -1,6 +1,11 @@
 <p align="left"> <a href="https://www.linkedin.com/in/sumit-kumar-jha-050156217/" target="blank"></a> </p>
 
-- 🌱 I’m currently learning *Java*
+
+A passionate Full Stack Web Developer, a lifelong learner with a strong foundation in both front-end and back-end development. Possessing expertise in HTML, CSS, JavaScript, React, and MongoDB, excels at adapting to new technologies swiftly and paying meticulous attention to details.
+
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://camo.githubusercontent.com/6a4048d3cd4d8700f657d0e224f5dcd08ada48b8f2747c656b1f44ed9dae8007/68747470733a2f2f6861636b2e636f64696e67626c6f636b732e636f6d2f5f6e7578742f696d672f6d61696e6769662e313634363032312e676966"/>
+
+- 🌱 I’m currently learning *MERN Stack*
 
 - 💬 Ask me about *HTML,JavaScript,CSS*
 
